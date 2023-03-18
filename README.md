@@ -1,2 +1,1 @@
-ALX low level programming training, C Programming language
-
+C - Variables, if, else, while
